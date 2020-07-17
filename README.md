@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm KKY. I'm mostly just messing around. I hope you find some of it useful.
 
 <!--
 **kkykkykky/kkykkykky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
